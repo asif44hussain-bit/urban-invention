@@ -1,0 +1,5 @@
+requests==2.31.0
+faker==19.13.0
+fake-useragent==1.4.0
+python-telegram-bot==21.6
+urllib3==2.1.0
